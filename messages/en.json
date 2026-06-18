@@ -1,0 +1,218 @@
+{
+    "title": "ABXGROUP - Seafood Export & Processing",
+    "description": "Leading Moroccan exporter of high-quality seafood products, offering fresh, live, and frozen fish with tailored processing and packaging solutions.",
+    "og_title": "ABXGROUP - Seafood Export & Processing",
+    "og_description": "Leading Moroccan exporter of high-quality seafood products, offering fresh, live, and frozen fish with tailored processing and packaging solutions.",
+    "og_image": "/icons/abxgroup-logo.svg",
+    "keywords": "seafood export, fish processing, fresh seafood, frozen fish, seafood packaging, international seafood trade",
+
+    "navbar": {
+        "home": "home",
+        "services": "services",
+        "specialties": "specialties",
+        "products": "products",
+        "about": "about",
+        "contact": "contact"
+    },
+    "hero": {
+        "title": {
+            "part_one": "Factory For The Valorization Freezing",
+            "part_two": "And Processing Of Fisheries Products."
+        },
+        "desc": "Providing high-quality solutions for the valorization, freezing, and processing of fisheries products to ensure freshness and sustainability.",
+        "btn_text": "read more"
+    },
+
+    "speciality_section": {
+        "title": { "part_one": "Our", "part_two": "Specialties" },
+        "link_text": "read more",
+        "slides": [
+            {
+                "id": 1,
+                "title1": "SABRE",
+                "scentific1": "Lepidopus caudatus",
+                "text1": "A lean, high-protein fish with a mild flavor, perfect for grilling and frying. Rich in Omega-3, it’s available fresh or frozen for versatile culinary use.",
+                "title2": "POULPE",
+                "scentific2": "Octopus Vulgaris",
+                "text2": "A tender and flavorful seafood choice, rich in protein and Omega-3. Perfect for grilling, salads, and Mediterranean dishes."
+            },
+            {
+                "id": 2,
+                "title1": "CALAMAR",
+                "text1": "A popular seafood known for its mild flavor and firm, yet tender texture. It is rich in protein and low in fat,  calamar is a versatile ingredient in many cuisines , it's perfect for creating flavorful meals that are both delicious and nutritious.",
+                "scentific1": "Loligo Vulgaris",
+                "title2": "SARDINE",
+                "text2": "A small, flavorful fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its strong taste, it is commonly grilled, fried, or canned. Whether fresh or preserved, sardines are a nutritious and versatile seafood option.",
+                "scentific2": "Sardina pilchardus"
+            },
+            {
+                "id": 3,
+                "title1": "SEPIA",
+                "scentific1": "Sepia Officnalis",
+                "text1": "A tender and flavorful seafood, known for its delicate texture and mild taste. Rich in protein and low in fat, it is perfect for grilling, frying, or adding to pasta and risotto dishes.",
+                "title2": "ALMENDRITA",
+                "text2": "A small, tender seafood with a mild, sweet flavor. Ideal for quick cooking, it’s perfect for grilling, stir-frying, or adding to seafood stews.",
+                "scentific2": "Sepia Elegans"
+            },
+            {
+                "id": 4,
+                "title1": "PUNTILLA",
+                "scentific1": "Alloteuthis media",
+                "text1": "a small, tender seafood with a mild, sweet flavor and a delicate texture. Perfect for grilling, frying, or adding to stews and salads, it is a versatile ingredient in Mediterranean and seafood dishes.",
+                "title2": "MAQUEREAU",
+                "text2": "A flavorful, oily fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its distinctive taste, it is perfect for grilling, baking, or smoking.",
+                "scentific2": "Scomber Colias"
+            }
+        ]
+    },
+    "about_section": {
+        "text": "Types of fish",
+        "part_one": {
+            "title": "Presentation",
+            "desc_one": "is a leading Moroccan group specializing in the export of seafood products in all forms and various packaging.",
+            "desc_two": {
+                "part_one": "With extensive experience,",
+                "part_two": "is recognized for its commitment to providing high-quality seafood products while adhering to the strictest standards of sustainability and food safety. Thanks to our modern facilities and a highly skilled team, we meet the needs of the international market with efficient logistics solutions and fast delivery times. Quality, freshness, and traceability are the pillars that support our operations and ensure the satisfaction of our customers worldwide."
+            }
+        },
+        "part_two": {
+            "title": "Our core values",
+            "core_one": "Superior quality products.",
+            "core_two": "World-class logistics.",
+            "core_three": "Commitment to sustainability.",
+            "core_four": "A trusted partner internationally."
+        },
+        "company_gallery": {
+            "title": {
+                "part_one": "Our",
+                "part_two": "Gallery"
+            },
+            "desc": " Each product is processed in our facilities that comply with international standards, ensuring freshness and quality. In addition to our values, we also have a fleet of high-performance boats, guaranteeing quality fishing and a constant supply of fresh products.",
+            "feats": {
+                "one": "State-of-the-Art Facilities.",
+                "two": "High-Performance Fishing Fleet.",
+                "three": "Commitment to Sustainability.",
+                "four": "Custom Packaging Solutions."
+            }
+        }
+    },
+    "production_section": {
+        "title": {
+            "part_one": "Our",
+            "part_two": "Production Process"
+        },
+        "carts": {
+            "cart_one": {
+                "title": "Product selection",
+                "desc": "Our products are carefully selected by our experts based on their freshness, size, and quality. We establish strong partnerships backed by 20 years of experience."
+            },
+            "cart_two": {
+                "title": "Quality control",
+                "desc": "Each product undergoes rigorous quality control. We check the freshness, appearance, smell, and texture of the fish and seafood. Our quality control process complies with international food safety standards."
+            },
+            "cart_three": {
+                "title": "Packaging and Shipping",
+                "desc": "After being sorted and prepared, the products are packaged under optimal conditions to ensure their freshness. We use packaging techniques suited for live, fresh, or frozen products, ensuring a constant temperature is maintained during transport."
+            },
+            "cart_four": {
+                "title": "Tracking and Delivery",
+                "desc": "Thanks to our partnership with trusted carriers, we ensure constant monitoring of each shipment. You can track the delivery of your products in real-time and be assured that they will arrive in optimal conditions."
+            }
+        }
+    },
+    "services_section": {
+        "title": { "part_one": "Our", "part_two": "Services" },
+        "carts": {
+            "cart_one": {
+                "title": "Fish Export",
+                "desc": "Thanks to our global network, we ensure reliable and timely deliveries of fresh, live, and frozen fish, tailored to the needs of international markets."
+            },
+            "cart_two": {
+                "title": "Processing and Suitable Packaging",
+                "desc": "We offer a service for processing, cleaning, and packaging your seafood products in compliance with international standards, ensuring their freshness and quality until arrival."
+            },
+            "cart_three": {
+                "title": "Dedicated Customer Support",
+                "desc": "Our experienced team is at your disposal to provide personalized support throughout the entire process, from order to delivery. We are committed to meeting your needs and ensuring an optimal customer experience."
+            }
+        }
+    },
+    "products_section": {
+        "title": { "part_one": "Our", "part_two": "Products" },
+        "link_text": "Detials",
+        "carts": [
+            {
+                "id": 1,
+                "title": "SABRE",
+                "scentific": "Lepidopus caudatus",
+                "text": "A lean, high-protein fish with a mild flavor, perfect for grilling and frying. Rich in Omega-3, it’s available fresh or frozen for versatile culinary use."
+            },
+            {
+                "id": 2,
+                "title": "POULPE",
+                "scentific": "Octopus Vulgaris",
+                "text": "A tender and flavorful seafood choice, rich in protein and Omega-3. Perfect for grilling, salads, and Mediterranean dishes."
+            },
+            {
+                "id": 3,
+                "title": "CALAMAR",
+                "text": "A popular seafood known for its mild flavor and firm, yet tender texture. It is rich in protein and low in fat,  calamar is a versatile ingredient in many cuisines , it's perfect for creating flavorful meals that are both delicious and nutritious.",
+                "scentific": "Loligo Vulgaris"
+            },
+            {
+                "id": 4,
+                "title": "SARDINE",
+                "text": "A small, flavorful fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its strong taste, it is commonly grilled, fried, or canned. Whether fresh or preserved, sardines are a nutritious and versatile seafood option.",
+                "scentific": "Sardina pilchardus"
+            },
+            {
+                "id": 5,
+                "title": "SEPIA",
+                "scentific": "Sepia Officnalis",
+                "text": "A tender and flavorful seafood, known for its delicate texture and mild taste. Rich in protein and low in fat, it is perfect for grilling, frying, or adding to pasta and risotto dishes."
+            },
+            {
+                "id": 6,
+                "title": "ALMENDRITA",
+                "text": "A small, tender seafood with a mild, sweet flavor. Ideal for quick cooking, it’s perfect for grilling, stir-frying, or adding to seafood stews.",
+                "scentific": "Sepia Elegans"
+            },
+            {
+                "id": 7,
+                "title": "PUNTILLA",
+                "scentific": "Alloteuthis media",
+                "text": "a small, tender seafood with a mild, sweet flavor and a delicate texture. Perfect for grilling, frying, or adding to stews and salads, it is a versatile ingredient in Mediterranean and seafood dishes."
+            },
+            {
+                "id": 8,
+                "title": "MAQUEREAU",
+                "text": "A flavorful, oily fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its distinctive taste, it is perfect for grilling, baking, or smoking.",
+                "scentific": "Scomber Colias"
+            }
+        ]
+    },
+    "contact_us": {
+        "title": "Call Us or Fill The Form",
+        "desc": "Leave your information and submit to us. Subscribe to our newsletters for more updates and reports.",
+        "form": {
+            "placeholder_name": "name",
+            "placeholder_email": "your email",
+            "placeholder_phone": "phone Number",
+            "placeholder_msg": "message",
+            "btn_text": "send Message"
+        },
+        "contact_type": {
+            "location": "Location",
+            "call": "Call Center",
+            "email": "Email Us"
+        }
+    },
+    "footer": {
+        "contact": "contact us",
+        "resources": "resources",
+        "copyright": {
+            "part_one": "Copyright",
+            "part_two": "All rights reserved."
+        }
+    }
+}

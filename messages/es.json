@@ -1,0 +1,216 @@
+{
+    "title": "ABXGROUP - Exportación y Procesamiento de Productos del Mar",
+    "description": "Líder marroquí en la exportación de productos del mar de alta calidad, ofreciendo pescado fresco, vivo y congelado con soluciones de procesamiento y embalaje adaptadas.",
+    "og_title": "ABXGROUP - Exportación y Procesamiento de Productos del Mar",
+    "og_description": "Líder marroquí en la exportación de productos del mar de alta calidad, ofreciendo pescado fresco, vivo y congelado con soluciones de procesamiento y embalaje adaptadas.",
+    "og_image": "/icons/abxgroup-logo.svg",
+    "keywords": "exportación de mariscos, procesamiento de pescado, pescado fresco, pescado congelado, embalaje de productos del mar, comercio internacional de mariscos",
+    "navbar": {
+        "home": "inicio",
+        "services": "servicios",
+        "specialties": "especialidades",
+        "products": "productos",
+        "about": "sobre nosotros",
+        "contact": "contacto"
+    },
+    "hero": {
+        "title": {
+            "part_one": "Fábrica para la Valorización, Congelación",
+            "part_two": "y Procesamiento de Productos Pesqueros."
+        },
+        "desc": "Brindamos soluciones de alta calidad para la valorización, congelación y procesamiento de productos pesqueros, garantizando frescura y sostenibilidad.",
+        "btn_text": "leer más"
+    },
+    "speciality_section": {
+        "title": { "part_one": "Nuestras", "part_two": "Especialidades" },
+        "link_text": "leer más",
+        "slides": [
+            {
+                "id": 1,
+                "title1": "SABRE",
+                "scentific1": "Lepidopus caudatus",
+                "text1": "Un pescado magro y rico en proteínas con un sabor suave, perfecto para asar a la parrilla y freír. Rico en Omega-3, está disponible fresco o congelado para un uso culinario versátil.",
+                "title2": "PULPO",
+                "scentific2": "Octopus Vulgaris",
+                "text2": "Una opción de marisco tierna y sabrosa, rica en proteínas y Omega-3. Perfecta para asar a la parrilla, ensaladas y platos mediterráneos."
+            },
+            {
+                "id": 2,
+                "title1": "CALAMAR",
+                "scentific1": "Loligo Vulgaris",
+                "text1": "Un marisco popular conocido por su sabor suave y su textura firme pero tierna. Rico en proteínas y bajo en grasa, es un ingrediente versátil en muchas cocinas, perfecto para crear platos deliciosos y nutritivos.",
+                "title2": "SARDINA",
+                "scentific2": "Sardina pilchardus",
+                "text2": "Un pez pequeño y sabroso, rico en ácidos grasos Omega-3, proteínas y vitaminas esenciales. Conocido por su sabor intenso, se consume comúnmente a la parrilla, frito o enlatado. Ya sea fresco o conservado, las sardinas son una opción nutritiva y versátil."
+            },
+            {
+                "id": 3,
+                "title1": "SEPIA",
+                "scentific1": "Sepia Officinalis",
+                "text1": "Un marisco tierno y sabroso, conocido por su textura delicada y su sabor suave. Rico en proteínas y bajo en grasa, es ideal para asar a la parrilla, freír o agregar a pastas y risottos.",
+                "title2": "ALMENDRITA",
+                "scentific2": "Sepia Elegans",
+                "text2": "Un marisco pequeño y tierno con un sabor suave y dulce. Ideal para cocciones rápidas, perfecto para asar a la parrilla, saltear o agregar a guisos de mariscos."
+            },
+            {
+                "id": 4,
+                "title1": "PUNTILLA",
+                "scentific1": "Alloteuthis media",
+                "text1": "Un marisco pequeño y tierno con un sabor suave y dulce y una textura delicada. Perfecto para asar a la parrilla, freír o agregar a guisos y ensaladas, es un ingrediente versátil en platos mediterráneos y de mariscos.",
+                "title2": "CABALLA",
+                "scentific2": "Scomber Colias",
+                "text2": "Un pescado sabroso y graso, rico en ácidos grasos Omega-3, proteínas y vitaminas esenciales. Conocido por su sabor distintivo, es perfecto para asar, hornear o ahumar."
+            }
+        ]
+    },
+    "about_section": {
+        "text": "Tipos de pescado",
+        "part_one": {
+            "title": "Presentación",
+            "desc_one": "es un grupo marroquí líder especializado en la exportación de productos del mar en todas sus formas y diversos tipos de envasado.",
+            "desc_two": {
+                "part_one": "Con una amplia experiencia,",
+                "part_two": "es reconocido por su compromiso de proporcionar productos del mar de alta calidad, cumpliendo con los más estrictos estándares de sostenibilidad y seguridad alimentaria. Gracias a nuestras instalaciones modernas y a un equipo altamente calificado, satisfacemos las necesidades del mercado internacional con soluciones logísticas eficientes y tiempos de entrega rápidos. Calidad, frescura y trazabilidad son los pilares que respaldan nuestras operaciones y garantizan la satisfacción de nuestros clientes en todo el mundo."
+            }
+        },
+        "part_two": {
+            "title": "Nuestros valores fundamentales",
+            "core_one": "Productos de calidad superior.",
+            "core_two": "Logística de clase mundial.",
+            "core_three": "Compromiso con la sostenibilidad.",
+            "core_four": "Un socio de confianza a nivel internacional."
+        },
+        "company_gallery": {
+            "title": {
+                "part_one": "Nuestra",
+                "part_two": "Galería"
+            },
+            "desc": "Cada producto es procesado en nuestras instalaciones que cumplen con los estándares internacionales, asegurando frescura y calidad. Además de nuestros valores, también contamos con una flota de barcos de alto rendimiento, garantizando pesca de calidad y un suministro constante de productos frescos.",
+            "feats": {
+                "one": "Instalaciones de última generación.",
+                "two": "Flota pesquera de alto rendimiento.",
+                "three": "Compromiso con la sostenibilidad.",
+                "four": "Soluciones de embalaje personalizadas."
+            }
+        }
+    },
+    "production_section": {
+        "title": {
+            "part_one": "Nuestro",
+            "part_two": "Proceso de Producción"
+        },
+        "carts": {
+            "cart_one": {
+                "title": "Selección de productos",
+                "desc": "Nuestros productos son cuidadosamente seleccionados por nuestros expertos según su frescura, tamaño y calidad. Establecemos asociaciones sólidas respaldadas por 20 años de experiencia."
+            },
+            "cart_two": {
+                "title": "Control de calidad",
+                "desc": "Cada producto se somete a un riguroso control de calidad. Verificamos la frescura, apariencia, olor y textura del pescado y los mariscos. Nuestro proceso de control de calidad cumple con los estándares internacionales de seguridad alimentaria."
+            },
+            "cart_three": {
+                "title": "Envasado y envío",
+                "desc": "Después de ser clasificados y preparados, los productos se envasan en condiciones óptimas para garantizar su frescura. Utilizamos técnicas de envasado adecuadas para productos vivos, frescos o congelados, asegurando una temperatura constante durante el transporte."
+            },
+            "cart_four": {
+                "title": "Seguimiento y entrega",
+                "desc": "Gracias a nuestra asociación con transportistas de confianza, garantizamos un seguimiento constante de cada envío. Puede rastrear la entrega de sus productos en tiempo real y tener la seguridad de que llegarán en condiciones óptimas."
+            }
+        }
+    },
+    "services_section": {
+        "title": { "part_one": "Nuestros", "part_two": "Servicios" },
+        "carts": {
+            "cart_one": {
+                "title": "Exportación de pescado",
+                "desc": "Gracias a nuestra red global, aseguramos entregas fiables y puntuales de pescado fresco, vivo y congelado, adaptados a las necesidades de los mercados internacionales."
+            },
+            "cart_two": {
+                "title": "Procesamiento y envasado adecuado",
+                "desc": "Ofrecemos un servicio de procesamiento, limpieza y envasado de sus productos marinos en cumplimiento con las normas internacionales, asegurando su frescura y calidad hasta su llegada."
+            },
+            "cart_three": {
+                "title": "Soporte al cliente dedicado",
+                "desc": "Nuestro equipo experimentado está a su disposición para proporcionar soporte personalizado a lo largo de todo el proceso, desde el pedido hasta la entrega. Nos comprometemos a satisfacer sus necesidades y garantizar una experiencia óptima para el cliente."
+            }
+        }
+    },
+    "products_section": {
+        "title": { "part_one": "Our", "part_two": "Products" },
+        "link_text": "Detials",
+        "carts": [
+            {
+                "id": 1,
+                "title": "SABRE",
+                "scentific": "Lepidopus caudatus",
+                "text": "A lean, high-protein fish with a mild flavor, perfect for grilling and frying. Rich in Omega-3, it’s available fresh or frozen for versatile culinary use."
+            },
+            {
+                "id": 2,
+                "title": "POULPE",
+                "scentific": "Octopus Vulgaris",
+                "text": "A tender and flavorful seafood choice, rich in protein and Omega-3. Perfect for grilling, salads, and Mediterranean dishes."
+            },
+            {
+                "id": 3,
+                "title": "CALAMAR",
+                "text": "A popular seafood known for its mild flavor and firm, yet tender texture. It is rich in protein and low in fat,  calamar is a versatile ingredient in many cuisines , it's perfect for creating flavorful meals that are both delicious and nutritious.",
+                "scentific": "Loligo Vulgaris"
+            },
+            {
+                "id": 4,
+                "title": "SARDINE",
+                "text": "A small, flavorful fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its strong taste, it is commonly grilled, fried, or canned. Whether fresh or preserved, sardines are a nutritious and versatile seafood option.",
+                "scentific": "Sardina pilchardus"
+            },
+            {
+                "id": 5,
+                "title": "SEPIA",
+                "scentific": "Sepia Officnalis",
+                "text": "A tender and flavorful seafood, known for its delicate texture and mild taste. Rich in protein and low in fat, it is perfect for grilling, frying, or adding to pasta and risotto dishes."
+            },
+            {
+                "id": 6,
+                "title": "ALMENDRITA",
+                "text": "A small, tender seafood with a mild, sweet flavor. Ideal for quick cooking, it’s perfect for grilling, stir-frying, or adding to seafood stews.",
+                "scentific": "Sepia Elegans"
+            },
+            {
+                "id": 7,
+                "title": "PUNTILLA",
+                "scentific": "Alloteuthis media",
+                "text": "a small, tender seafood with a mild, sweet flavor and a delicate texture. Perfect for grilling, frying, or adding to stews and salads, it is a versatile ingredient in Mediterranean and seafood dishes."
+            },
+            {
+                "id": 8,
+                "title": "MAQUEREAU",
+                "text": "A flavorful, oily fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its distinctive taste, it is perfect for grilling, baking, or smoking.",
+                "scentific": "Scomber Colias"
+            }
+        ]
+    },
+    "contact_us": {
+        "title": "Llámanos o llena el formulario",
+        "desc": "Deja tu información y envíanosla. Suscríbete a nuestro boletín para recibir más actualizaciones e informes.",
+        "form": {
+            "placeholder_name": "nombre",
+            "placeholder_email": "tu correo electrónico",
+            "placeholder_phone": "número de teléfono",
+            "placeholder_msg": "mensaje",
+            "btn_text": "enviar mensaje"
+        },
+        "contact_type": {
+            "location": "Ubicación",
+            "call": "Centro de llamadas",
+            "email": "Envíanos un correo"
+        }
+    },
+    "footer": {
+        "contact": "contáctanos",
+        "resources": "recursos",
+        "copyright": {
+            "part_one": "Derechos de autor",
+            "part_two": "Todos los derechos reservados."
+        }
+    }
+}

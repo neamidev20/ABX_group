@@ -1,0 +1,217 @@
+{
+    "title": "ABXGROUP - Exportation & Transformation de Produits de la Mer",
+    "description": "Leader marocain dans l'exportation de produits de la mer de haute qualité, offrant du poisson frais, vivant et congelé avec des solutions de transformation et d'emballage adaptées.",
+    "og_title": "ABXGROUP - Exportation & Transformation de Produits de la Mer",
+    "og_description": "Leader marocain dans l'exportation de produits de la mer de haute qualité, offrant du poisson frais, vivant et congelé avec des solutions de transformation et d'emballage adaptées.",
+    "og_image": "/icons/abxgroup-logo.svg",
+    "keywords": "exportation de fruits de mer, transformation de poisson, poisson frais, poisson congelé, emballage de produits de la mer, commerce international de fruits de mer",
+
+    "navbar": {
+        "home": "Accueil",
+        "services": "Services",
+        "specialties": "produits",
+        "products": "productos",
+        "about": "À propos",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": {
+            "part_one": "Usine de Valorisation, de Congélation",
+            "part_two": "Et de Transformation des Produits de la Pêche."
+        },
+        "desc": "Fournissant des solutions de haute qualité pour la valorisation, la congélation et la transformation des produits de la pêche afin de garantir leur fraîcheur et leur durabilité.",
+        "btn_text": "Lire la suite"
+    },
+    "services_section": {
+        "title": { "part_one": "Nos", "part_two": "Services" },
+        "carts": {
+            "cart_one": {
+                "title": "Exportation de poissons",
+                "desc": "Grâce à notre réseau mondial, nous assurons des livraisons fiables et ponctuelles de poissons frais vivants et congelés, adaptés aux besoins des marchés internationaux."
+            },
+            "cart_two": {
+                "title": "Traitement et emballage adaptés",
+                "desc": "Nous offrons un service de traitement, de nettoyage et d’emballage de vos produits marins en conformité avec les normes internationales, garantissant ainsi leur fraîcheur et leur qualité jusqu'à leur arrivée. "
+            },
+            "cart_three": {
+                "title": "Support client dédié",
+                "desc": "Notre équipe expérimentée est à votre disposition pour vous fournir un accompagnement personnalisé tout au long du processus, depuis la commande jusqu’à la livraison. Nous engageons à répondre à vos besoins et à garantir une expérience client optimale."
+            }
+        }
+    },
+    "speciality_section": {
+        "title": { "part_one": "Nos", "part_two": "Spécialités" },
+        "link_text": "En savoir plus",
+        "slides": [
+            {
+                "id": 1,
+                "title1": "SABRE",
+                "scentific1": "Lepidopus caudatus",
+                "text1": "Un poisson maigre et riche en protéines avec une saveur douce, parfait pour le grill et la friture. Riche en Oméga-3, il est disponible frais ou surgelé pour un usage culinaire varié.",
+                "title2": "POULPE",
+                "scentific2": "Octopus Vulgaris",
+                "text2": "Un fruit de mer tendre et savoureux, riche en protéines et en Oméga-3. Idéal pour le grill, les salades et les plats méditerranéens."
+            },
+            {
+                "id": 2,
+                "title1": "CALAMAR",
+                "scentific1": "Loligo Vulgaris",
+                "text1": "Un fruit de mer apprécié pour sa saveur douce et sa texture ferme mais tendre. Riche en protéines et pauvre en matières grasses, le calamar est un ingrédient polyvalent dans de nombreuses cuisines. Il est parfait pour créer des repas savoureux et nutritifs.",
+                "title2": "SARDINE",
+                "scentific2": "Sardina pilchardus",
+                "text2": "Un petit poisson savoureux, riche en Oméga-3, en protéines et en vitamines essentielles. Connu pour son goût prononcé, il est souvent grillé, frit ou mis en conserve. Fraîche ou conservée, la sardine est une option nutritive et polyvalente."
+            },
+            {
+                "id": 3,
+                "title1": "SEPIA",
+                "scentific1": "Sepia Officinalis",
+                "text1": "Un fruit de mer tendre et savoureux, connu pour sa texture délicate et son goût doux. Riche en protéines et pauvre en matières grasses, il est parfait pour le grill, la friture ou ajouté aux pâtes et risottos.",
+                "title2": "ALMENDRITA",
+                "scentific2": "Sepia Elegans",
+                "text2": "Un fruit de mer petit et tendre, avec une saveur douce et sucrée. Idéal pour une cuisson rapide, il est parfait pour le grill, la poêle ou ajouté aux ragoûts de fruits de mer."
+            },
+            {
+                "id": 4,
+                "title1": "PUNTILLA",
+                "scentific1": "Alloteuthis media",
+                "text1": "Un petit fruit de mer tendre avec une saveur douce et une texture délicate. Parfait pour le grill, la friture ou ajouté aux ragoûts et salades, c’est un ingrédient polyvalent de la cuisine méditerranéenne.",
+                "title2": "MAQUEREAU",
+                "scentific2": "Scomber Colias",
+                "text2": "Un poisson savoureux et gras, riche en Oméga-3, en protéines et en vitamines essentielles. Connu pour son goût distinctif, il est parfait pour le grill, la cuisson au four ou le fumage."
+            }
+        ]
+    },
+    "about_section": {
+        "text": "Types de poissons",
+        "part_one": {
+            "title": "Présentation",
+            "desc_one": "est un groupe marocain de premier plan, spécialisé dans l'exportation des produits de la peche sous toutes les formes et avec differents emballage.",
+            "desc_two": {
+                "part_one": "Fort d'une vaste expérience,",
+                "part_two": "est reconnu pour son engagement à fournir des produits de la mer de haute qualité, tout en respectant les normes les plus strictes en matière de durabilité et de sécurité alimentaire. Grâce à nos infrastructures modernes et à notre équipe hautement qualifiée, nous répondons aux exigences du marché international avec des solutions logistiques efficaces et des délais de livraison rapides. La qualité, la fraîcheur et la traçabilité sont les piliers qui soutiennent nos activités et garantissent la satisfaction de nos clients à travers le monde."
+            }
+        },
+        "part_two": {
+            "title": "Nos valeurs fondamentales",
+            "core_one": "Produits de qualité supérieure",
+            "core_two": "Engagement envers la durabilité",
+            "core_three": "Logistique de classe mondiale",
+            "core_four": "Partenaire de confiance à l'international"
+        },
+        "company_gallery": {
+            "title": {
+                "part_one": "Notre",
+                "part_two": "Galerie"
+            },
+            "desc": "Chaque produit est traité dans nos installations conformes aux normes internationales, garantissant fraîcheur et qualité. En plus de nos valeurs, nous disposons également d'une flotte de bateaux performants, garantissant une pêche de qualité et un approvisionnement constant en produits frais.",
+            "feats": {
+                "one": "Installations de pointe.",
+                "two": "Flotte de pêche haute performance.",
+                "three": "Engagement envers la durabilité.",
+                "four": "Solutions d’emballage sur mesure."
+            }
+        }
+    },
+    "production_section": {
+        "title": {
+            "part_one": "Notre",
+            "part_two": "Processus de Production"
+        },
+        "carts": {
+            "cart_one": {
+                "title": "Sélection des Produits",
+                "desc": "Nos produits sont soigneusement sélectionnés par nos experts en fonction de leur fraîcheur, leur taille et leur qualité.Nous établissons des partenariats solides avec une expérience de 20 ans"
+            },
+            "cart_two": {
+                "title": "Contrôle de la Qualité",
+                "desc": "Chaque produit subit un contrôle qualité rigoureux. Nous vérifions la fraîcheur, l’aspect, l’odeur et la texture des poissons et fruits de mer. Notre processus de contrôle de qualité est conforme aux normes de sécurité alimentaire internationales."
+            },
+            "cart_three": {
+                "title": "Emballage et Expédition",
+                "desc": "Après avoir été triés et préparés, les produits sont emballés dans des conditions optimales pour garantir leur fraîcheur. Nous utilisons des techniques d'emballage adaptées aux produits vivants et frais ou congelés, en veillant à maintenir une température constante pendant le transport."
+            },
+            "cart_four": {
+                "title": "Suivi et Livraison",
+                "desc": "Grâce à notre partenariat avec des transporteurs de confiance, nous assurons un suivi constant de chaque expédition. Vous pouvez suivre l’acheminement de vos produits en temps réel et être assuré qu’ils arrivent dans des conditions optimales."
+            }
+        }
+    },
+    "products_section": {
+        "title": { "part_one": "Our", "part_two": "Products" },
+        "link_text": "Detials",
+        "carts": [
+            {
+                "id": 1,
+                "title": "SABRE",
+                "scentific": "Lepidopus caudatus",
+                "text": "A lean, high-protein fish with a mild flavor, perfect for grilling and frying. Rich in Omega-3, it’s available fresh or frozen for versatile culinary use."
+            },
+            {
+                "id": 2,
+                "title": "POULPE",
+                "scentific": "Octopus Vulgaris",
+                "text": "A tender and flavorful seafood choice, rich in protein and Omega-3. Perfect for grilling, salads, and Mediterranean dishes."
+            },
+            {
+                "id": 3,
+                "title": "CALAMAR",
+                "text": "A popular seafood known for its mild flavor and firm, yet tender texture. It is rich in protein and low in fat,  calamar is a versatile ingredient in many cuisines , it's perfect for creating flavorful meals that are both delicious and nutritious.",
+                "scentific": "Loligo Vulgaris"
+            },
+            {
+                "id": 4,
+                "title": "SARDINE",
+                "text": "A small, flavorful fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its strong taste, it is commonly grilled, fried, or canned. Whether fresh or preserved, sardines are a nutritious and versatile seafood option.",
+                "scentific": "Sardina pilchardus"
+            },
+            {
+                "id": 5,
+                "title": "SEPIA",
+                "scentific": "Sepia Officnalis",
+                "text": "A tender and flavorful seafood, known for its delicate texture and mild taste. Rich in protein and low in fat, it is perfect for grilling, frying, or adding to pasta and risotto dishes."
+            },
+            {
+                "id": 6,
+                "title": "ALMENDRITA",
+                "text": "A small, tender seafood with a mild, sweet flavor. Ideal for quick cooking, it’s perfect for grilling, stir-frying, or adding to seafood stews.",
+                "scentific": "Sepia Elegans"
+            },
+            {
+                "id": 7,
+                "title": "PUNTILLA",
+                "scentific": "Alloteuthis media",
+                "text": "a small, tender seafood with a mild, sweet flavor and a delicate texture. Perfect for grilling, frying, or adding to stews and salads, it is a versatile ingredient in Mediterranean and seafood dishes."
+            },
+            {
+                "id": 8,
+                "title": "MAQUEREAU",
+                "text": "A flavorful, oily fish rich in Omega-3 fatty acids, protein, and essential vitamins. Known for its distinctive taste, it is perfect for grilling, baking, or smoking.",
+                "scentific": "Scomber Colias"
+            }
+        ]
+    },
+    "contact_us": {
+        "title": "Appelez-nous ou remplissez le formulaire",
+        "desc": "Laissez vos informations et soumettez-les. Abonnez-vous à nos newsletters pour plus de mises à jour et de rapports.",
+        "form": {
+            "placeholder_name": "nom",
+            "placeholder_email": "votre e-mail",
+            "placeholder_phone": "numéro de téléphone",
+            "placeholder_msg": "message",
+            "btn_text": "envoyer le message"
+        },
+        "contact_type": {
+            "location": "Emplacement",
+            "call": "Centre d'appel",
+            "email": "Envoyez-nous un e-mail"
+        }
+    },
+    "footer": {
+        "contact": "contactez-nous",
+        "resources": "ressources",
+        "copyright": {
+            "part_one": "Droits d'auteur",
+            "part_two": "Tous droits réservés."
+        }
+    }
+}
